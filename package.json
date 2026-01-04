@@ -1,6 +1,6 @@
 {
   "name": "@meocinema/common",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Core shared components, types, and utilities for MeoCinema microservices.",
   "main": "dist/index.js",
   "directories": {
